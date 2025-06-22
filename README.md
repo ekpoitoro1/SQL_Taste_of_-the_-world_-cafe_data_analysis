@@ -29,10 +29,12 @@ This table contains 5 columns and 2 constraints (Primary and Foreign Key). These
 
 ### **Key Insights and Findings**
 
-* There are 32 unique menu items and 4 unique categories in this dataset. 
+* There are 32 unique menu items and 4 unique categories in this dataset.
+  
 * The average cost of items by category is between 16.75 and 10.07. Italian dishes cost more, while American dishes cost less.
+  
 * Orders were placed between 1st of Jan 2023 to 31st of March 2023, and about 12234 orders have been made so far.
-The best-performing menu 
+
 * The best performing menu items include Hamburger, Edamame, Korean Beef Bowl, while the worst Performing menu items include Cheese Lasagna, Potstickers, Chicken Tacos.
 
 * A line chart for the trend of total sales per month shows that the month of February has the highest (186 items sold) and lowest (76 items sold) compared to other months.
@@ -102,8 +104,8 @@ Furthermore, by focusing on high-performing dishes, lunch hour trends, and under
 
 * What are the best and worst-performing menu items?
 * What is the trend of Total sales per month?
-* Highest revenue-generating item
-* Top 5 Highest revenue-generating items
+* Highest revenue-generating item?
+* Top 5 Highest revenue-generating items?
 * What are the most ordered items per day of the week?
 * What are the Top 3 items ordered most frequently?
 * What is the reorder rate of items by customers?
