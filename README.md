@@ -32,17 +32,20 @@ This table contains 5 columns and 2 constraints (Primary and Foreign Key). These
 * There are 32 unique menu items and 4 unique categories in this dataset.
   
 * The average cost of items by category is between 16.75 and 10.07. Italian dishes cost more, while American dishes cost less.
+  ![Bar Chart of performance by category](https://github.com/user-attachments/assets/882c355d-0a55-465b-8594-fb79c05edc4f)
+
   
 * Orders were placed between 1st of Jan 2023 to 31st of March 2023, and about 12234 orders have been made so far.
 
 * The best performing menu items include Hamburger, Edamame, Korean Beef Bowl, while the worst Performing menu items include Cheese Lasagna, Potstickers, Chicken Tacos.
 
 * A line chart for the trend of total sales per month shows that February has the highest (186 items sold) and lowest (76 items sold) compared to other months.
-![Trend of sales per month](https://github.com/user-attachments/assets/038ce566-15b9-4eda-a288-2ca18cc364ba)
 
- * Korean Beef Bowl is the highest revenue-generating item with a Total revenue of 10554.60.
+* Korean Beef Bowl is the highest revenue-generating item with a Total revenue of 10554.60.
+  ![Top 5 Performing menu items](https://github.com/user-attachments/assets/0c5e4b99-7196-438d-9ded-5eae027a7f1e)
+
    
- * The top 5 highest performing items by revenue are Korean Beef Bow, Spaghetti & Meatballs, Tofu Pad Thai, Cheeseburger, and Hamburger.
+* The top 5 highest performing items by revenue are Korean Beef Bow, Spaghetti & Meatballs, Tofu Pad Thai, Cheeseburger, and Hamburger.
 
 * Top-performing items are consistently ordered across all weekdays and generate the highest revenue.
 ![Trend of Order Performance ny Weekday](https://github.com/user-attachments/assets/71b6b7bf-b30d-40ad-8871-9a86f047bbb2)
@@ -54,6 +57,8 @@ This table contains 5 columns and 2 constraints (Primary and Foreign Key). These
 * Peak ordering times are during lunch hours (12 PM – 1 PM).
 
 * Newer items (first ordered within the last 3 months) are performing competitively, though older items still dominate total orders.
+  ![The trend of monthly orders](https://github.com/user-attachments/assets/d366a651-3b81-46c1-8232-7ede931f442e)
+
 
 * The month of March has the highest order, followed by January and February.
 
