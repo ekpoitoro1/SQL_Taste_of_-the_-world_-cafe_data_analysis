@@ -43,7 +43,6 @@ This table contains 5 columns and 2 constraints (Primary and Foreign Key). These
 
 * Korean Beef Bowl is the highest revenue-generating item with a Total revenue of 10554.60.
   ![Top 5 Performing menu items](https://github.com/user-attachments/assets/0c5e4b99-7196-438d-9ded-5eae027a7f1e)
-
    
 * The top 5 highest performing items by revenue are Korean Beef Bow, Spaghetti & Meatballs, Tofu Pad Thai, Cheeseburger, and Hamburger.
 
