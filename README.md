@@ -37,13 +37,15 @@ This table contains 5 columns and 2 constraints (Primary and Foreign Key). These
 
 * The best performing menu items include Hamburger, Edamame, Korean Beef Bowl, while the worst Performing menu items include Cheese Lasagna, Potstickers, Chicken Tacos.
 
-* A line chart for the trend of total sales per month shows that the month of February has the highest (186 items sold) and lowest (76 items sold) compared to other months.
+* A line chart for the trend of total sales per month shows that February has the highest (186 items sold) and lowest (76 items sold) compared to other months.
+![Trend of sales per month](https://github.com/user-attachments/assets/038ce566-15b9-4eda-a288-2ca18cc364ba)
 
  * Korean Beef Bowl is the highest revenue-generating item with a Total revenue of 10554.60.
    
  * The top 5 highest performing items by revenue are Korean Beef Bow, Spaghetti & Meatballs, Tofu Pad Thai, Cheeseburger, and Hamburger.
 
 * Top-performing items are consistently ordered across all weekdays and generate the highest revenue.
+![Trend of Order Performance ny Weekday](https://github.com/user-attachments/assets/71b6b7bf-b30d-40ad-8871-9a86f047bbb2)
 
 * The best-performing menu items (Hamburger, Edamame, and Korean Beef Bow) are the most frequently ordered.
 
