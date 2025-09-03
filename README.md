@@ -1,4 +1,4 @@
-# **Taste of the World Cafe Menu Performance & Customer Preference Analysis**
+# **Tastey Cafe Menu Performance & Customer Preference Analysis**
 
 This project analyzes restaurant order data for Taste of the World Cafe, with a focus on identifying high-performing & underperforming menu items, and also understanding customer ordering behavior. 
 SQL queries were used to uncover performances, patterns, trends, and actionable insights to support business decisions.
